@@ -12,8 +12,3 @@
 	<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux/Redux Toolkit" alt="Redux " width="40" height="40"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
 </div>
-
----
-
-### 👁‍🗨 My activity:
-![snake gif](https://github.com/amator82/amator82/blob/output/github-contribution-grid-snake.gif)
